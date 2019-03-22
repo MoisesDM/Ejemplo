@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">moy</string>
+    <string name="etemail">E-mail</string>
+    <string name="etContra">Contraseña</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnEntrar">Entrar</string>
 </resources>
